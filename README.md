@@ -1,11 +1,11 @@
-# Hi there! I'm Kirill.
+# Привет! Меня зовут Кирилл.
 
-Welcome to my GitHub profile! I'm a beginner Java developer who loves building software and exploring new technologies. I am dedicated to continuous learning and improving my skills in software development.
+Добро пожаловать на мой профиль GitHub! Я начинающий Java-разработчик, который любит создавать программное обеспечение и изучать новые технологии. Я стремлюсь к постоянному обучению и улучшению своих навыков в области разработки программного обеспечения.
 
-## Skills and Expertise
+## Навыки и экспертиза
 
-- **Programming Languages:** Java
-- **Frameworks and Libraries:** Spring Boot, Hibernate, JUnit
-- **Databases:** MySQL, PostgreSQL
-- **Version Control:** Git
-- **Development Tools:** IntelliJ IDEA, Maven
+- **Языки программирования:** Java
+- **Фреймворки и библиотеки:** Spring Boot, Hibernate, JUnit
+- **Базы данных:** MySQL, PostgreSQL
+- **Системы контроля версий:** Git
+- **Инструменты разработки:** IntelliJ IDEA, Maven
