@@ -1,19 +1,11 @@
-<h1 align="center">Howdy!, I'm <a href="https://t.me/molochniyyy" target="_blank">Kirill</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Java-developer from Russia</h3>
+# Hi there! I'm Kirill.
 
-<!--
-**Molochniyyy/Molochniyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a beginner Java developer who loves building software and exploring new technologies. I am dedicated to continuous learning and improving my skills in software development.
 
-Here are some ideas to get you started:
+## Skills and Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+- **Programming Languages:** Java
+- **Frameworks and Libraries:** Spring Boot, Hibernate, JUnit
+- **Databases:** MySQL, PostgreSQL
+- **Version Control:** Git
+- **Development Tools:** IntelliJ IDEA, Maven
